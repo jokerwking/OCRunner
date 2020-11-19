@@ -5,7 +5,7 @@
 直接下载zip，是无法正常运行的。必须通过git clone --recursive。
 
 ```shell
-git clone --recursive https://github.com/SilverFruity/OCRunner.git
+git clone --recursive https://github.com/jokerwking/OCRunner.git
 ```
 
 ## 简介
